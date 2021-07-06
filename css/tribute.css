@@ -1,0 +1,32 @@
+#image {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+  }
+
+  #img-div {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+  }
+
+  #img-caption{
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  #tribute-info{
+      margin-left: 20%;
+      margin-right: 20%;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+    background-color:lightgray;
+}
